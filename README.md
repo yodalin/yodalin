@@ -105,7 +105,7 @@ production-ready systems, and solve real-world problems through technology.
 </table>
 
 <p align="center">
-  🔗 <b>Explore all projects:</b> https://github.com/YOUR_USERNAME
+  🔗 <b>Explore all projects:</b> https://github.com/yodalin
 </p>
 
 ---
