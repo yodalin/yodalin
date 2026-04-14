@@ -70,7 +70,7 @@ production-ready systems, and solve real-world problems through technology.
 ---
 
 <!-- ================= PROJECTS ================= -->
-<h2>🚀 Featured Work</h2>
+<!-- <h2>🚀 Featured Work</h2>
 
 <table>
 <tr>
@@ -106,7 +106,41 @@ production-ready systems, and solve real-world problems through technology.
 
 <p align="center">
   🔗 <b>Explore all projects:</b> https://github.com/yodalin
-</p>
+</p> -->
+<h2>🚀 Featured Projects</h2>
+
+<ul>
+  <li>
+    <b>📊 QueueEase – Virtual Queue Management System</b><br/>
+    MERN stack + real-time tracking system for institutions (immigration, banks, hospitals)<br/>
+    ✅ Reduced waiting time & improved transparency<br/>
+    🔗 <a href="https://github.com/YOUR_USERNAME/queueease">View Project</a>
+  </li>
+
+  <li>
+    <b>🍔 Mosob – Food Ordering & Hotel Booking System</b><br/>
+    Full-stack MERN app with authentication, dashboards & real-time booking<br/>
+    🔗 <a href="https://github.com/YOUR_USERNAME/mosob">View Project</a>
+  </li>
+
+  <li>
+    <b>🤖 Tech QA – AI Interview Preparation Platform</b><br/>
+    AI-powered system to prepare users for technical interviews<br/>
+    🔗 <a href="https://github.com/YOUR_USERNAME/tech-qa">View Project</a>
+  </li>
+
+  <li>
+    <b>✈️ Flight Booking Mobile App</b><br/>
+    React Native app with real-time booking & payment integration<br/>
+    🔗 <a href="https://github.com/YOUR_USERNAME/flight-app">View Project</a>
+  </li>
+
+  <li>
+    <b>📺 Rick & Morty Streaming App</b><br/>
+    Vue.js + API integration with search, filtering & dynamic UI<br/>
+    🔗 <a href="https://github.com/YOUR_USERNAME/rick-morty-app">View Project</a>
+  </li>
+</ul>
 
 ---
 
