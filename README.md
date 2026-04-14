@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Yordanos%20Molla&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
-<h1 align="center">Hi 👋, I'm YOUR_NAME</h1>
+<h1 align="center">Hi 👋, I'm yordi</h1>
 <h3 align="center">🚀 Full Stack Developer | Backend Systems | Mobile Apps | Future QA Engineer</h3>
 
 <p align="center">
