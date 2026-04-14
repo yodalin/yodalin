@@ -13,8 +13,8 @@
 
 <!-- ================= QUICK INFO ================= -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=social" />
+  <img src="https://komarev.com/ghpvc/?username=yodalin&label=Profile%20Views&color=0e75b6" />
+  <img src="https://img.shields.io/github/followers/yodalin?style=social" />
   <img src="https://img.shields.io/badge/Focus-Backend%20%26%20QA-blue" />
 </p>
 
@@ -125,18 +125,18 @@ production-ready systems, and solve real-world problems through technology.
 <h2>📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yodalin&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=yodalin&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 <!-- ================= TROPHIES ================= -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yodalin&theme=algolia&no-frame=true&row=1" />
 </p>
 
 ---
