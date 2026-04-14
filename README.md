@@ -68,45 +68,6 @@ production-ready systems, and solve real-world problems through technology.
 </ul>
 
 ---
-
-<!-- ================= PROJECTS ================= -->
-<!-- <h2>🚀 Featured Work</h2>
-
-<table>
-<tr>
-<td width="50%">
-
-<h3>QueueEase</h3>
-<p>Real-time queue management system (MERN + Socket.io)</p>
-
-</td>
-<td width="50%">
-
-<h3>Mosob Platform</h3>
-<p>Food ordering & hotel booking system with authentication</p>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-<h3>Tech QA</h3>
-<p>AI-powered interview preparation platform</p>
-
-</td>
-<td width="50%">
-
-<h3>Flight Booking App</h3>
-<p>Mobile app with real-time booking & payment system</p>
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  🔗 <b>Explore all projects:</b> https://github.com/yodalin
-</p> -->
 <h2>🚀 Featured Projects</h2>
 
 <ul>
@@ -114,31 +75,31 @@ production-ready systems, and solve real-world problems through technology.
     <b>📊 QueueEase – Virtual Queue Management System</b><br/>
     MERN stack + real-time tracking system for institutions (immigration, banks, hospitals)<br/>
     ✅ Reduced waiting time & improved transparency<br/>
-    🔗 <a href="https://github.com/YOUR_USERNAME/queueease">View Project</a>
+    🔗 <a href="https://github.com/yodalin/queueease">View Project</a>
   </li>
 
   <li>
     <b>🍔 Mosob – Food Ordering & Hotel Booking System</b><br/>
     Full-stack MERN app with authentication, dashboards & real-time booking<br/>
-    🔗 <a href="https://github.com/YOUR_USERNAME/mosob">View Project</a>
+    🔗 <a href="https://github.com/yodalin/mosob">View Project</a>
   </li>
 
   <li>
     <b>🤖 Tech QA – AI Interview Preparation Platform</b><br/>
     AI-powered system to prepare users for technical interviews<br/>
-    🔗 <a href="https://github.com/YOUR_USERNAME/tech-qa">View Project</a>
+    🔗 <a href="https://github.com/yodalin/tech-qa">View Project</a>
   </li>
 
   <li>
     <b>✈️ Flight Booking Mobile App</b><br/>
     React Native app with real-time booking & payment integration<br/>
-    🔗 <a href="https://github.com/YOUR_USERNAME/flight-app">View Project</a>
+    🔗 <a href="https://github.com/yodalin/flight-app">View Project</a>
   </li>
 
   <li>
     <b>📺 Rick & Morty Streaming App</b><br/>
     Vue.js + API integration with search, filtering & dynamic UI<br/>
-    🔗 <a href="https://github.com/YOUR_USERNAME/rick-morty-app">View Project</a>
+    🔗 <a href="https://github.com/yodalin/rick-morty-app">View Project</a>
   </li>
 </ul>
 
@@ -167,12 +128,6 @@ production-ready systems, and solve real-world problems through technology.
 </p>
 
 ---
-
-<!-- ================= TROPHIES ================= -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yodalin&theme=algolia&no-frame=true&row=1" />
-</p>
-
 ---
 
 <!-- ================= CONTACT ================= -->
